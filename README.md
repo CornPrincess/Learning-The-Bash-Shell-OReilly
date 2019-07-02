@@ -1,2 +1,2 @@
-# LearningTheBashShell
-The practice code of LearningTheBashShell,3rdEdition
+# Learning-The-Bash-Shell
+The practice code of Learning-The-Bash-Shell,3rdEdition, OReilly
